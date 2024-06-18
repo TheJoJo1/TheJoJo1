@@ -1,10 +1,10 @@
 ## Hi there 👋
 I am TheJoJo!
-
--Java
--HTML
--CSS
--PHP
+<br>
+-Java<br>
+-HTML<br>
+-CSS<br>
+-PHP<br>
 -MySQL
 
 <!--

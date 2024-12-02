@@ -7,6 +7,4 @@ I am TheJoJo!
 -CSS<br>
 -PHP<br>
 -MySQL<br>
--Cpp<br>
--C#<br>
 -a bit Phyton

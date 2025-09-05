@@ -1,7 +1,6 @@
-## Hi there 👋
-I am TheJoJo!
-<br>
-<br>
-Doing things in Java i guess LUL
+Oh Hallo
+Ich bin TheJoJo
 
-a little bit Web Developing
+https://thejojo.de
+
+Alles Gude
